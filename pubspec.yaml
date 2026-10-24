@@ -3,7 +3,7 @@ description: >-
   OpenTelemetry instrumentation for cloudwatch_logs by Dartastic.io. Adds
   standard OpenTelemetry observability to applications that use
   cloudwatch_logs.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_cloudwatch_logs
 homepage: https://dartastic.io
 
